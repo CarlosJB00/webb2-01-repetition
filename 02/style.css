@@ -1,0 +1,11 @@
+span {
+background-color: brown;
+}
+
+span:last-child{
+    background-color: chartreuse;
+}
+
+p:last-child span:last-child {
+    background-color: blue;
+}

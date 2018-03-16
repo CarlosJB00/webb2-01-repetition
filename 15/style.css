@@ -1,0 +1,11 @@
+body{
+    background-image: url(congruent_pentagon.png);
+    text-align: center;
+    padding-top: 50px;
+}
+div {
+    background-color: #D8FBE2;
+    width: 50%;
+    padding: 10px;
+    margin: 0 auto;
+}

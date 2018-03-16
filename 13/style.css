@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+ th, td{
+     height: 50px;
+     width: 50px;
+     border: 1px solid #6C7A89;
+ }
+ th{
+     background-color: #6C7A89;
+     color: white;
+     font-weight: normal;
+ }
+
+ td:nth-child(odd){
+     background-color: #D2D7D3;
+
+ }

@@ -1,0 +1,14 @@
+ol {
+    list-style-type: upper-alpha;
+    color: #FA5732;
+    font-size: 2em;
+}
+
+ul li {
+    list-style-type: square;
+    color: #B000B5;
+}
+
+li {
+    margin-bottom: 0.2em;
+}
